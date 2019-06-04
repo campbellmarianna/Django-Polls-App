@@ -1,0 +1,15 @@
+ # Step 2
+- The developer will be able to see the admin site
+    - I glad to type out queries individual. I believe I'm getting a better
+      understanding of how they work and how I can use them.
+
+# Step 3
+- Creating public interfaces - "views" for the web-poll application
+Notes
+- a view is a "type" of Web page in your Django application that generally serves
+a specific function and has a specific template.
+
+- Stopped at writing more views
+
+# Step 4
+- Focus on simple form processing and cutting down our code
