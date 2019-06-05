@@ -13,3 +13,5 @@ a specific function and has a specific template.
 
 # Step 4
 - Focus on simple form processing and cutting down our code
+
+let Dani know you worked on the tutorial and didn't use git
