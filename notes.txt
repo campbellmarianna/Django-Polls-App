@@ -15,3 +15,5 @@ a specific function and has a specific template.
 - Focus on simple form processing and cutting down our code
 
 let Dani know you worked on the tutorial and didn't use git
+- Create micro commits of the last section - every time you make progress commit
+- Also after add comments so to have as a reference
