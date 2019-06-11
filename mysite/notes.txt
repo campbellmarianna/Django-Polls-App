@@ -1,0 +1,3 @@
+Question
+- Why is it that when we create a Choice object inline without showing the question?
+    Makes it easier working with similar objects via a ForeignKey
